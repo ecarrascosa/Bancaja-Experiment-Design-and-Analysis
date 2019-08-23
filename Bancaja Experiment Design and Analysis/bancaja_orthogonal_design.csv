@@ -1,0 +1,9 @@
+waive_signing_fee,contingent_annual_fee,interest_rate,detailed_mailing,send_plastic_card,channel
+Yes,No,15%,No,Yes,Branch
+Yes,No,12%,Yes,No,Branch
+Yes,Yes,15%,Yes,Yes,Mail
+Yes,Yes,12%,No,No,Mail
+No,No,15%,Yes,No,Mail
+No,No,12%,No,Yes,Mail
+No,Yes,15%,No,No,Branch
+No,Yes,12%,Yes,Yes,Branch

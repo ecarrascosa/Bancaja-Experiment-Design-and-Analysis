@@ -1,0 +1,9 @@
+champain,waive_signing_fee,contingent_annual_fee,interest_rate,detailed_mailing,send_plastic_card,channel,response_rate
+1,Yes,No,15%,No,Yes,Branch,13.1
+2,Yes,No,12%,Yes,No,Branch,4.2
+3,Yes,Yes,15%,Yes,Yes,Mail,9.9
+4,Yes,Yes,12%,No,Yes,Mail,8.2
+5,No,No,15%,Yes,Yes,Mail,7.9
+6,No,No,12%,No,Yes,Mail,6.5
+7,No,Yes,15%,No,No,Branch,1.1
+8,No,Yes,12%,Yes,Yes,Branch,9.4
